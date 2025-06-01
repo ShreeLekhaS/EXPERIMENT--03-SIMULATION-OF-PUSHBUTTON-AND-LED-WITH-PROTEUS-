@@ -74,8 +74,8 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 ## STM 32 CUBE PROGRAM :
 ```c
-Name: DEVA ABISHEK P
-Reg No: 212223110008
+Name: SHREE LEKHA.S
+Reg No: 212223110052
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
